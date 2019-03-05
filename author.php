@@ -1,5 +1,5 @@
 <?php
-    $title = 'All articles by author '.$author;
+    $title = 'All articles by author555 '.$author;
     //if(strlen($uri[1]) > 2)
 
 		//$author = $uri[1];
