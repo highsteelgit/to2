@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
     $title = 'All articles by author55577777 '.$author;
+=======
+    $title = 'All articles by author5544577 '.$author;
+>>>>>>> 6a1c6c984698541ddc9a18dc1584ca2a4f385b01
     //if(strlen($uri[1]) > 2)
 
 		//$author = $uri[1];
